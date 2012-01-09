@@ -1,3 +1,11 @@
-Intro to Git (I didn't like the old text)
+# Intro to Git
 
-Adding stuff to this file
+Markdown is fun to use and make simple text files.
+
+Make sure there is a line between text to create a new paragraph
+
+## Markdown Docs 
+[docs} (http://daringfireball.net/projects/markdown/syntax)
+
+- List Item 1 (can use hyphen, star)
+- List Item 2
