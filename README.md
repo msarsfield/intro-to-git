@@ -1,3 +1,1 @@
-Mary'd new Git repo (repository)
-
-Beautiful new text for my README file on GitHub
+Intro to Git (I didn't like the old text)
